@@ -1291,7 +1291,7 @@
       <properties>
         <hadoop.version>2.3.0</hadoop.version>
         <protobuf.version>2.5.0</protobuf.version>
-        <jets3t.version>0.9.0</jets3t.version>
+        <jets3t.version>0.9.3</jets3t.version>
         <commons.math3.version>3.1.1</commons.math3.version>
         <avro.mapred.classifier>hadoop2</avro.mapred.classifier>
       </properties>
@@ -1302,7 +1302,7 @@
       <properties>
         <hadoop.version>2.4.0</hadoop.version>
         <protobuf.version>2.5.0</protobuf.version>
-        <jets3t.version>0.9.0</jets3t.version>
+        <jets3t.version>0.9.3</jets3t.version>
         <commons.math3.version>3.1.1</commons.math3.version>
         <avro.mapred.classifier>hadoop2</avro.mapred.classifier>
       </properties>
